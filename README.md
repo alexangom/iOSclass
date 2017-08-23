@@ -1,5 +1,6 @@
 # legendary-telegram
 
 Terminology
-repositories - local
-brancehs - master/trunk and other (feaure, release, hotflix)
+
+1- repositories - local
+2- brancehs - master/trunk and other (feaure, release, hotflix)
